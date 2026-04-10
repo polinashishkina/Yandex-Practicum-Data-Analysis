@@ -97,4 +97,4 @@ A long sale can be considered if it took longer than 120 days (75% quartile - 19
 St. Petersburg, Murino, Shushary, Vsevolozhsk, Pushkin, Kolpino, Pargolovo, Gatchina, Kudrovo, Vyborg.
 
 ### Libraries and tools used
-Pandas, plotly, matplotlib libraries, data preprocessing, exploratory data analysis, data visualization
+Python, Pandas, plotly, matplotlib libraries, data preprocessing, exploratory data analysis, data visualization
