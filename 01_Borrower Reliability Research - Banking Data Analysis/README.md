@@ -42,4 +42,4 @@ When analyzing the bank's customer solvency statistics, the following results we
 4. Car and education loan clients are the most likely to default on loan payments. Housing loan clients are the least likely to default.
 
 ### Libraries and tools used
-Pandas, plotly, matplotlib, seaborn, PyMystem3 libraries, lemmatization, data preprocessing.
+Python, Pandas, plotly, matplotlib, seaborn, PyMystem3 libraries, lemmatization, data preprocessing.
